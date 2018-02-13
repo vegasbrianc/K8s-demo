@@ -1,4 +1,4 @@
-#Docker Stack K8s demo
+# Docker Stack K8s demo
 
 This is the Docker Kuberenetes demo 
 
